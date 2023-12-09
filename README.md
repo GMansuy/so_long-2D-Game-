@@ -1,1 +1,1 @@
-# so_long-2D-Game-
+# so_long
